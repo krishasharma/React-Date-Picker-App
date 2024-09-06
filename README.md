@@ -1,6 +1,6 @@
 # React Date Picker App
 
-This is my submission for CSE186 Summer 2024 Assignment 3. In this project, I implemented a simple React web app using JSX components to create a date picker with a focus on automated testing and accessibility. This assignment helped me strengthen my skills in React, JSX, and test-driven development.
+In this project, I implemented a simple React web app using JSX components to create a date picker with a focus on automated testing and accessibility. This assignment helped me strengthen my skills in React, JSX, and test-driven development.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
